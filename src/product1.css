@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.ratin{
+   display: flex;
+
+    width: 100%;
+    height: 20px;
+}
+.book-image{
+    margin-left:120px;
+    margin: 30px;
+}
+.book-button img {
+    width: 300px;
+    height: 400px;
+    flex: 1;
+    
+}
+.sec1{
+    
+    width: 45%;
+    margin-left: 20px;
+    margin-right: 0px;
+    background-color: white;
+    z-index: 1;
+  text-align: start;
+   align-items: center;
+   
+   
+ 
+}
+.book-button button{
+   
+    background-color: orange;
+    color: white;
+    
+    font-weight: 600;
+}
+.book-button{ 
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.row1-items{
+    text-align: start;
+}
